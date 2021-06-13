@@ -3,9 +3,10 @@
 </p>
 👋 Hello My name is Kyeonghun Kim. I am a master degree student in Yonsei University.<br><br>
 I am very interseted in <b>Machine Learning</b> especially in <b>NLP(Natural Language Processing)</b> and Computer Vision. I was selected as the 10th trainee of the <b>Software Maestro(SOMA)</b> and carried out a project called Image Inpainting and Image Detection Implementation of Camera Application(https://github.com/INCHEON-CHO/CRF_APP). I developed Image Detection in this project. Recently, I am doing research on <b>Multimodal-Sentiment Anaylsis</b> and <b>Aspect-based Sentiment Analysis</b>
-<center><h2>&#128202;My GitHub Stats</h2></center>
+<center><h2>&#128202;My GitHub and BOJ Stats</h2></center>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kimkyeonghun&hide=prs,issues&count_private=true&show_icons=true&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimkyeonghun&hide=prs,issues&count_private=true&show_icons=true&theme=synthwave">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkh115505">
 </p>
 <center><h2>&#128295; Stacks </h2></center>
 <p align="center">
