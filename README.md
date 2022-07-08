@@ -1,7 +1,7 @@
 <p align="right">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkyeonghun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" style="height: auto; margin-left : 25px; margin-right: 25px; padding: 20px;"/>
 </p>
-👋 Hello My name is Kyeonghun Kim. I am a master degree student in Yonsei University.<br><br>
+👋 Hello My name is Kyeonghun Kim. I got a master degree from Yonsei University. I am Ai Researcher in December & Company, now. <br><br>
 I am very interested in <b>Machine Learning</b> especially in <b>NLP(Natural Language Processing)</b> and Computer Vision. I was selected as the 10th trainee of the <b>Software Maestro(SOMA)</b> and carried out a project called Image Inpainting and Image Detection Implementation of Camera Application(https://github.com/INCHEON-CHO/CRF_APP). I developed Image Detection in this project. Recently, I am doing research on <b>Multimodal Sentiment Anaylsis</b> (https://github.com/kimkyeonghun/MSA).
 <center><h2>&#128202;My GitHub and BOJ Stats</h2></center>
 <p align="center">
